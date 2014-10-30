@@ -1,4 +1,0 @@
-documentation
-=============
-
-Gestion de documentation
