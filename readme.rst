@@ -47,7 +47,7 @@ Partie HTML :
         data-editable-submit-url=""
         data-editable-id=""
         data-editable-type=""
-        \*data-editable-specific-callback=""\*
+        data-editable-specific-callback=""
     >
         my-value
     </span>
