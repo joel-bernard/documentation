@@ -17,7 +17,7 @@ data-editable-submit-url                             Url AJAX appeler pour la sa
 data-editable-id                                     Nom de l'élément posté.
 data-editable-type                                   Type de champ de formulaire à afficher lors de l'édition. Les valeurs possibles sont : ``text``, ``textarea``, ``select``
 data-editable-specific-callback                      Par défault : ``false``. Indique un callback spécifique pour le champ.
-
+==================================================   =========================================================================================================================
 
 Exemples :
 ==========
