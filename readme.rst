@@ -39,11 +39,13 @@ Partie HTML :
         data-editable-submit-url=""
         data-editable-id=""
         data-editable-type=""
-        data-editable-specific-callback=""
-    >my-value</span>
+        **data-editable-specific-callback=""**
+    >
+        my-value
+    </span>
 
 Partie Js :
- 
+
  .. code-block:: js
 
      window.AppTool.UI.jeditable($(this), function (value) {
@@ -55,4 +57,3 @@ Partie Js :
                 $(this).html(response.data);
             }
      });
-    
