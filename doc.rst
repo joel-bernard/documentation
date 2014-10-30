@@ -3,8 +3,7 @@ Comment utiliser le plugin Jeditable
 
 Le plugin Jquery Jeditable est directement utilisable dans le html pour le bundle.
 
-.. note::
-    Pour activé l'initialisation du plugin, il suffit d'ajout la class CSS ``editable``
+.. note:: Pour activé l'initialisation du plugin, il suffit d'ajout la class CSS ``editable``
 
 Attributs HTML :
 ================
