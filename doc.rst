@@ -23,8 +23,6 @@ Exemples :
 ==========
 
 .. code-block:: html+jinja
-    :linenos:
 
-    <h1>code block example</h1>
     <span class="editable" data-editable-load-url="" data-editable-submit-url="" data-editable-id="" data-editable-type="">
 
