@@ -25,11 +25,11 @@ Utilisation sans callback spécifique :
 
 .. code-block:: html
 
-    <span 
-        class="editable" 
-        data-editable-load-url="" 
-        data-editable-submit-url="" 
-        data-editable-id="" 
+    <span
+        class="editable"
+        data-editable-load-url=""
+        data-editable-submit-url=""
+        data-editable-id=""
         data-editable-type=""
     >
         my-value
@@ -47,7 +47,7 @@ Partie HTML :
         data-editable-submit-url=""
         data-editable-id=""
         data-editable-type=""
-        \**data-editable-specific-callback=""\**
+        \*data-editable-specific-callback=""\*
     >
         my-value
     </span>
